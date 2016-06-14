@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<rdf:description rdf:about="http://ankush.tech/foaf.rdf#ankush">
+  <foaf:name>Ankush Chauhan</foaf:name>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Ankush Chauhan</foaf:name>
+  <foaf:givenname>Ankush</foaf:givenname>
+  <foaf:family_name>Chauhan</foaf:family_name>
+  <foaf:mbox rdf:resource="mailto:achauhan4@student.gsu.edu"/>
+  <foaf:mbox_sha1sum>828ca2a8c59688d8f1f19d790d45d3baecc2c94a</foaf:mbox_sha1sum>
+  <foaf:homepage rdf:resource="http://ankush.tech"/>
+  <foaf:depiction rdf:resource="http://ankush.tech/images/profilepic.jpg"/>
+  <foaf:phone rdf:resource="tel:4703438844"/>
+  <foaf:workInfoHomepage rdf:resource="CS Masters Student"/>
+  <foaf:schoolHomepage rdf:resource="cs.gsu.edu"/>
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:name>Jay Mehta</foaf:name>
+      <foaf:mbox_sha1sum>fcb52150115e586c8d8bdcabf3d1959e58dc6e39</foaf:mbox_sha1sum>
+    </foaf:Person>
+  </foaf:knows>
+  <foaf:knows>
+    <foaf:Person>
+      <foaf:name>Fayaz Shaik</foaf:name>
+      <foaf:mbox_sha1sum>2ec55291806394d5c6dc8378b0450abd5dd4cdd7</foaf:mbox_sha1sum>
+    </foaf:Person>
+  </foaf:knows>
+  <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Spatial"/>
+  <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Database"/>
+  <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Machine_learning"/>
+  <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Rock_climbing"/>
+</rdf:RDF>
