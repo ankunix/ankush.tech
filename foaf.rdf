@@ -5,7 +5,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:owl="http://www.w3.org/2002/07/owl#"
 xmlns:foaf="http://xmlns.com/foaf/0.1/">
-<rdf:description rdf:about="http://ankush.tech/foaf.rdf#ankush">
+<rdf:Description rdf:about="http://ankush.tech/foaf.rdf#ankush">
   <foaf:name>Ankush Chauhan</foaf:name>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   <foaf:name>Ankush Chauhan</foaf:name>
@@ -34,4 +34,5 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Database"/>
   <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Machine_learning"/>
   <foaf:topic_interest rdf:resource="http://dbpedia.org/page/Rock_climbing"/>
+</rdf:Description>
 </rdf:RDF>
