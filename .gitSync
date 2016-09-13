@@ -1,8 +1,16 @@
 git add .
 git status
+<<<<<<< 7e7909ee755f3428946fa22062782803de3c6118
 git commit -m "$(echo $(curl -s http://whatthecommit.com/index.txt))"
+=======
+git commit -am \"$(echo $(curl -s http://whatthecommit.com/index.txt)\" (http://whatthecommit.com)\")\"
+>>>>>>> ""
 git push origin master
 git checkout gh-pages
 git rebase master
 git push origin gh-pages
 git checkout master
+<<<<<<< 7e7909ee755f3428946fa22062782803de3c6118
+=======
+
+>>>>>>> ""
