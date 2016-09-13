@@ -1,0 +1,2660 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Diversity
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+X-APPLE-CALENDAR-COLOR:#FF2968
+X-WR-TIMEZONE:America/New_York
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160901T200000
+UID:0A6D47ED-9E4E-4010-BF31-0FBB1CDDF9B1
+DTSTAMP:20160906T224329Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:\n\nWe invite you to come take a walk with us the First Thur
+ sday of each month\, from 5:00 p.m. - 8:00 p.m. The Rialto holds artist 
+ talks and receptions and during the Art Walk\, offering opportunities fo
+ r the public to meet our featured artists and learn more about the artis
+ ts and their work.\n\n\n\nFor more information please visit our Website 
+ at www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:First Thursday Arts Walk
+DTSTART;TZID=US/Eastern:20160901T170000
+CREATED:20160718T160428Z
+RRULE:FREQ=MONTHLY;INTERVAL=1;UNTIL=20170601T035959Z;BYDAY=1TH
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160921T130000
+UID:E1CFB23F-A075-4E5D-AA66-73B99CB50DF5
+DTSTAMP:20160718T162756Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:\n\nFeed Your Senses\, the Rialto’s free Lunchtime Learning 
+ Performing Arts Series\, occurs every third Wednesday at noon\, in the L
+ obby at the Rialto Center for the Arts at Georgia State University. The 
+ program features a different artist or speaker each month providing a ca
+ sual and fun insider’s look at their craft.\n\nFor more information plea
+ se visit our Website at www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\
+ n\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Feed Your Senses Lunch and Learn
+DTSTART;TZID=US/Eastern:20160921T120000
+CREATED:20160718T160429Z
+RRULE:FREQ=MONTHLY;INTERVAL=1;UNTIL=20170601T035959Z;BYDAY=3WE
+BEGIN:VALARM
+X-WR-ALARMUID:91058A77-BD03-495F-B158-D056D9D3CAD5
+UID:91058A77-BD03-495F-B158-D056D9D3CAD5
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T161926Z
+UID:3C1B2331-29FF-4C1E-979E-EC4A0E07C96D
+DTEND;TZID=America/New_York:20161015T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Capitol Steps
+DTSTART;TZID=America/New_York:20161015T200000
+DTSTAMP:20160718T160732Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nPolitical Satire\n\n\n\n\n\nFaculty\, Staff and Student 
+ discounts are available. For more information please call 404-413-9TIX o
+ r visit www.rialto.gsu.edu\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:B9236F2D-9FF3-4873-B3E6-C895FF6875E5
+UID:B9236F2D-9FF3-4873-B3E6-C895FF6875E5
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T161926Z
+UID:F9814F15-75F2-4D8F-9185-C4A565860321
+DTEND;TZID=America/New_York:20161022T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Vertigo Dance Company
+DTSTART;TZID=America/New_York:20161022T200000
+DTSTAMP:20160718T160843Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nFun and Exciting Contemporary Dance from Israel\n\nFacul
+ ty\, Staff and Student discounts are available. For more information ple
+ ase call 404-413-9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.
+ edu>\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:AFDEE89A-C094-4544-B1C3-4427C3922167
+UID:AFDEE89A-C094-4544-B1C3-4427C3922167
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T161926Z
+UID:355589DA-889F-44EC-8343-EEFE734DE1A7
+DTEND;TZID=America/New_York:20161112T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Alloy Orchestra
+DTSTART;TZID=America/New_York:20161112T200000
+DTSTAMP:20160718T161244Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nSilent Film with Live Orchestra\n\nFaculty\, Staff and S
+ tudent discounts are available. For more information please call 404-413
+ -9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4B4F3518-632B-42DE-B06C-A86B0CCFFF06
+UID:4B4F3518-632B-42DE-B06C-A86B0CCFFF06
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T161926Z
+UID:7370F13D-CD17-4B69-9332-3D36C36AE4DE
+DTEND;TZID=America/New_York:20161113T200000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Joe Lovano and Chucho Valdes
+DTSTART;TZID=America/New_York:20161113T190000
+DTSTAMP:20160718T161415Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nJazz Legends\n\nFaculty\, Staff and Student discounts ar
+ e available. For more information please call 404-413-9TIX or visit www.
+ rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:428FF4D8-2056-4078-844B-3519D6FB33DD
+UID:428FF4D8-2056-4078-844B-3519D6FB33DD
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20161203T220000
+UID:044177CE-9AF3-4555-BE80-E196519D92A9
+DTSTAMP:20160718T162343Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:\n\nRialto Center for the Arts\, 80 Forsyth Street\, NW\n\nF
+ aculty\, Staff and Student discounts are available. For more information
+  please call 404-413-9TIX or visit www.rialto.gsu.edu<http://www.rialto.
+ gsu.edu>\n\n
+SEQUENCE:0
+SUMMARY:Georgia State University School of Music 19th Annual Gala Holida
+ y Concert
+DTSTART;TZID=US/Eastern:20161203T200000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160718T163616Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20161205T045959Z
+BEGIN:VALARM
+X-WR-ALARMUID:8152999D-2E9B-4E42-9039-88449D93CAD8
+UID:8152999D-2E9B-4E42-9039-88449D93CAD8
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20161204T170000
+UID:044177CE-9AF3-4555-BE80-E196519D92A9
+DTSTAMP:20160718T162343Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:\n\nRialto Center for the Arts\, 80 Forsyth Street\, NW\n\nF
+ aculty\, Staff and Student discounts are available. For more information
+  please call 404-413-9TIX or visit www.rialto.gsu.edu<http://www.rialto.
+ gsu.edu>\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20161204T200000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Georgia State University School of Music 19th Annual Gala Holida
+ y Concert
+DTSTART;TZID=America/New_York:20161204T150000
+CREATED:20160718T163616Z
+BEGIN:VALARM
+X-WR-ALARMUID:B21EA786-B78F-4402-8F3F-04275A102238
+UID:B21EA786-B78F-4402-8F3F-04275A102238
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T163616Z
+UID:D282AC85-2F19-4843-8782-A4FFD22B843A
+DTEND;TZID=America/New_York:20170121T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Jazz Masters featuring Ramsey Lewis\, Jimmy Cobb\, Lou Donaldson
+  and Richard Davis Jazz Legends
+DTSTART;TZID=America/New_York:20170121T200000
+DTSTAMP:20160718T162557Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nJazz Legends\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:0D1FEC58-164E-4E24-BF88-E5C3F35B5F7B
+UID:0D1FEC58-164E-4E24-BF88-E5C3F35B5F7B
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T163616Z
+UID:ABDBF332-3000-4F0F-BE5D-89191EF10F78
+DTEND;TZID=America/New_York:20170128T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:The Nile Project
+DTSTART;TZID=America/New_York:20170128T200000
+DTSTAMP:20160718T162647Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\n\n\nEast African World Music\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:188C066E-89C5-4840-81E8-CF9B3A2EBE13
+UID:188C066E-89C5-4840-81E8-CF9B3A2EBE13
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T163616Z
+UID:C6805C5B-CA44-4CEF-BDD0-567B78E13BBA
+DTEND;TZID=America/New_York:20170211T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Malpaso
+DTSTART;TZID=America/New_York:20170211T200000
+DTSTAMP:20160718T162953Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nCuban Contemporary Dance\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:7C3F4485-116E-4CC8-ACEE-849F52AAA73B
+UID:7C3F4485-116E-4CC8-ACEE-849F52AAA73B
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T163616Z
+UID:0FC1F99D-92A2-45CF-8A45-F592AE90F218
+DTEND;VALUE=DATE:20170219
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Sweet Honey in the Rock
+DTSTART;VALUE=DATE:20170218
+DTSTAMP:20160718T163153Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nSoul - Stirring Music\n\n\n\nFaculty\, Staff and Student
+  discounts are available. For more information please call 404-413-9TIX 
+ or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:886F7D29-390C-4536-ACD1-D94AECB66FBF
+UID:886F7D29-390C-4536-ACD1-D94AECB66FBF
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:DE5DC3CC-A3B9-4D49-ADB7-7CFEC6B39934
+UID:DE5DC3CC-A3B9-4D49-ADB7-7CFEC6B39934
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20170224T220000
+UID:3781CA87-18A2-4A8C-A9BD-67A2960E5005
+DTSTAMP:20160718T163342Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:\n\nBrazilian Music & Dance\n\nFaculty\, Staff and Student d
+ iscounts are available. For more information please call 404-413-9TIX or
+  visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Balé Folclorico da Bahia
+DTSTART;TZID=US/Eastern:20170224T200000
+CREATED:20160718T163616Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20170226T045959Z
+BEGIN:VALARM
+X-WR-ALARMUID:DD352569-F692-49ED-B7EA-E4459E1B1958
+UID:DD352569-F692-49ED-B7EA-E4459E1B1958
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T163616Z
+UID:3499900C-D630-4ECE-8D75-3D457DEB843D
+DTEND;TZID=America/New_York:20170304T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Dianne Reeves
+DTSTART;TZID=America/New_York:20170304T200000
+DTSTAMP:20160718T163511Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nGrammy winning Jazz vocalist\n\n\n\n\n\nFaculty\, Staff 
+ and Student discounts are available. For more information please call 40
+ 4-413-9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:EA77B583-14EE-44A1-AF91-C45F214DCC64
+UID:EA77B583-14EE-44A1-AF91-C45F214DCC64
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T164352Z
+UID:42C2A4C1-A15F-4C60-A668-D042C7BEBD67
+DTEND;TZID=America/New_York:20170325T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Shaolin Warriors
+DTSTART;TZID=America/New_York:20170325T200000
+DTSTAMP:20160718T163628Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nKung Fu Masters\n\nFaculty\, Staff and Student discounts
+  are available. For more information please call 404-413-9TIX or visit w
+ ww.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:51E5AD5F-9F38-4A3E-96AF-2AAACEBB2490
+UID:51E5AD5F-9F38-4A3E-96AF-2AAACEBB2490
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T164352Z
+UID:7EFBA766-44B3-417C-80B4-1BF7E6BBE08A
+DTEND;TZID=America/New_York:20170401T203000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Eddie Palmieri
+DTSTART;TZID=America/New_York:20170401T200000
+DTSTAMP:20160718T163735Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nGrammy winning Latin Jazz\n\nFaculty\, Staff and Student
+  discounts are available. For more information please call 404-413-9TIX 
+ or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:6D45AD7B-FFF2-4A81-9026-258474C149AD
+UID:6D45AD7B-FFF2-4A81-9026-258474C149AD
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T164352Z
+UID:B167F1D3-0F6B-4EEC-A764-13B96215393E
+DTEND;TZID=America/New_York:20170406T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Georgia State University Jazz Band
+DTSTART;TZID=America/New_York:20170406T200000
+DTSTAMP:20160718T163850Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nwith special guest\, Trumpeter\, Randy Brecker.\n\n\n\n\
+ n\n\n\n\n\nFaculty\, Staff and Student discounts are available. For more
+  information please call 404-413-9TIX or visit www.rialto.gsu.edu<http:/
+ /www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:82EC562C-6893-436A-A877-61BAA5289A92
+UID:82EC562C-6893-436A-A877-61BAA5289A92
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T164352Z
+UID:48C5A852-90CE-4BFC-9B94-90DF993A8B71
+DTEND;TZID=America/New_York:20170408T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Che Malambo
+DTSTART;TZID=America/New_York:20170408T200000
+DTSTAMP:20160718T163954Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nSouth American Dance\n\nFaculty\, Staff and Student disc
+ ounts are available. For more information please call 404-413-9TIX or vi
+ sit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:7FF08D90-3472-4C26-9530-D3DC8A8746F7
+UID:7FF08D90-3472-4C26-9530-D3DC8A8746F7
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T164352Z
+UID:472C4D3C-5409-4753-9603-D77A9F32795F
+DTEND;TZID=America/New_York:20170409T153000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Bent Frequency
+DTSTART;TZID=America/New_York:20170409T150000
+DTSTAMP:20160718T164106Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+SEQUENCE:0
+DESCRIPTION:\n\nThe Music of John Luther Adams\n\nFaculty\, Staff and St
+ udent discounts are available. For more information please call 404-413-
+ 9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4CA193C2-D2A8-4F47-A89D-74AB226760EE
+UID:4CA193C2-D2A8-4F47-A89D-74AB226760EE
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20170421T210000
+UID:A71957A9-43E4-44DE-8F0C-7A7FF5F1D6CF
+DTSTAMP:20160718T164316Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:Opera Theatre and Symphony Orchestra\n\nFaculty\, Staff and 
+ Student discounts are available. For more information please call 404-41
+ 3-9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n\n\n\n\
+ n
+SEQUENCE:0
+SUMMARY:Georgia State University Opera
+DTSTART;TZID=US/Eastern:20170421T200000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160718T164352Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20170424T035959Z
+BEGIN:VALARM
+X-WR-ALARMUID:E85815E9-9A26-47EE-984D-D0065A1C4C7C
+UID:E85815E9-9A26-47EE-984D-D0065A1C4C7C
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20170423T160000
+UID:A71957A9-43E4-44DE-8F0C-7A7FF5F1D6CF
+DTSTAMP:20160718T164316Z
+LOCATION:Rialto Center for the Arts (80 Forsyth St NW\, Atlanta\, GA\, U
+ S)
+DESCRIPTION:Opera Theatre and Symphony Orchestra\n\nFaculty\, Staff and 
+ Student discounts are available. For more information please call 404-41
+ 3-9TIX or visit www.rialto.gsu.edu<http://www.rialto.gsu.edu>\n\n\n\n\n\
+ n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20170423T200000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Georgia State University Opera
+DTSTART;TZID=America/New_York:20170423T150000
+CREATED:20160718T164352Z
+BEGIN:VALARM
+X-WR-ALARMUID:24426F95-73FE-4BC3-A551-28A7B0CF2F6C
+UID:24426F95-73FE-4BC3-A551-28A7B0CF2F6C
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20161003T180000
+UID:C761B6B6-5639-45CB-9761-25DCBB905F93
+DTSTAMP:20160718T170135Z
+LOCATION:Welch School Galleries\, 10 Peachtree Center Ave.
+DESCRIPTION:\n\nAn exhibition bridging the boundaries between hair salon
+ s and art galleries as sites of aesthetics\, craft and skill.  FREE and 
+ open to the public.\n\nGallery hours: Monday – Friday\, 10 a.m.-6p.m.\n\
+ nFor more information visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\
+ n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Hair Craft
+DTSTART;TZID=US/Eastern:20161003T100000
+CREATED:20160718T171101Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161115T045959Z;BYDAY=MO,TU,WE,TH,FR
+ ;WKST=SU
+BEGIN:VALARM
+X-WR-ALARMUID:4C0F8A9F-EBCD-41F7-B79A-DE0CB5F2888F
+UID:4C0F8A9F-EBCD-41F7-B79A-DE0CB5F2888F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T171101Z
+UID:A90B7EAB-60C7-4B76-BEC5-E97ED71889BF
+DTEND;VALUE=DATE:20160909
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Jamaican Maroon Cultural Performances
+DTSTART;VALUE=DATE:20160906
+DTSTAMP:20160718T170215Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:\n\nA series of Jamaican Maroon musical performances\, film 
+ screening\, photo exhibition\, and intellectual symposium.  Featuring Ja
+ maica’s traditional Maroon performance group\, the Granny Nanny Cultural
+  Group\, consisting of musicians\, storytellers\, and craftspeople.  FRE
+ E and open to the public.\n\nFor more information visit cencia.gsu.edu<h
+ ttp://cencia.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:73F77912-BF83-4737-9396-7B3633C47365
+UID:73F77912-BF83-4737-9396-7B3633C47365
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:4F0D97A3-48C5-45E0-AB25-6C652372CC37
+UID:4F0D97A3-48C5-45E0-AB25-6C652372CC37
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T171101Z
+UID:A08DF931-166E-4696-BDBE-FC927E4746DA
+DTEND;VALUE=DATE:20161008
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Holding Blackness in Suspension: The Films of Kahlil Joseph
+DTSTART;VALUE=DATE:20161006
+DTSTAMP:20160718T171408Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:\n\nA festival featuring the works of Los Angeles-based film
+ maker Kahlil Joseph\, who has made numerous short films in collaboration
+  with some of the most politically engaged and forward-thinking hip hop 
+ artists in modern America.  FREE and open to the public. For more inform
+ ation visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:D3E09443-5094-4171-98BB-C8CF5BF6F644
+UID:D3E09443-5094-4171-98BB-C8CF5BF6F644
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:A15969E1-47EA-4EB6-ADF6-623F8C7E2730
+UID:A15969E1-47EA-4EB6-ADF6-623F8C7E2730
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T172546Z
+UID:153AB9BB-38EF-48B3-B31B-5B6A1FF538D9
+DTEND;VALUE=DATE:20161019
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Understanding the Cold War in Southern Africa through Film
+DTSTART;VALUE=DATE:20161018
+DTSTAMP:20160718T171352Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:A screening of the recent works of Mozambican film director 
+ Joao Luis Sol de Carvalho\, who has chronicled the Cold War\, conflict\,
+  and the peace process in Southern African through his films.  FREE and 
+ open to the public. For more information visit cencia.gsu.edu<http://cen
+ cia.gsu.edu/>\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:EA1A702F-851C-4345-A137-A2FB332775E1
+UID:EA1A702F-851C-4345-A137-A2FB332775E1
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:FC4F9D9F-3A1E-4128-8E57-25AEB179680F
+UID:FC4F9D9F-3A1E-4128-8E57-25AEB179680F
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T172546Z
+UID:9057BE72-4209-4252-95AD-8D1D8E5B588B
+DTEND;TZID=America/New_York:20161027T200000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Winged Words: Greek Poetry in Song
+DTSTART;TZID=America/New_York:20161027T190000
+DTSTAMP:20160718T171531Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:\n\nA program designed and performed by mezzo-soprano Alexan
+ dra Gravas that combines modern Greek music with both traditional and co
+ ntemporary Greek poetry.  FREE and open to the public. For more informat
+ ion visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:0E5FF2FC-00B8-46E2-905F-3455D1F7B1B3
+UID:0E5FF2FC-00B8-46E2-905F-3455D1F7B1B3
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T172546Z
+UID:B97AA16F-AAF8-4CEA-BAAD-AFBB00799942
+DTEND;TZID=America/New_York:20170120T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Sound Worlds: The Sonification of the Japanese Garden
+DTSTART;TZID=America/New_York:20170120T200000
+DTSTAMP:20160718T171633Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:\n\nA unique concert of modern soundscapes created by coupli
+ ng traditional Zen instruments with Western instruments and inspired by 
+ the serene rock gardens of Japan.  Featuring performances by the neoPhon
+ ia New Music ensemble.  FREE and open to the public. For more informatio
+ n visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:85AC9757-7FAF-4349-BF93-36654C5A35E2
+UID:85AC9757-7FAF-4349-BF93-36654C5A35E2
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=US/Eastern:20170214T133000
+UID:38A88003-A40B-4751-9362-E68ED00C18EC
+DTSTAMP:20160718T172355Z
+LOCATION:Balzer Theater at Herren's (84 Luckie St NW\, Atlanta\, GA\, US
+ )
+DESCRIPTION:\n\nTelling the story of the Southern American woman – black
+  and white – through the writings of Eudora Welty\, Alice Walker\, Flann
+ ery O’Connor\, and Toni Morrison.  FREE and open to the public. For more
+  information visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Southern Writers Onstage: Women – Black & White
+DTSTART;TZID=US/Eastern:20170214T120000
+CREATED:20160718T172546Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170222T045959Z;BYDAY=TU;WKST=SU
+BEGIN:VALARM
+X-WR-ALARMUID:E714FA33-B2E8-4A18-86EA-5B6D37B59C59
+UID:E714FA33-B2E8-4A18-86EA-5B6D37B59C59
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20170328T133000
+UID:F7991CC0-EB0D-4E64-850E-66970F54EC7F
+DTSTAMP:20160718T172549Z
+LOCATION:Balzer Theater at Herren's (84 Luckie St NW\, Atlanta\, GA\, US
+ )
+DESCRIPTION:\n\n\n\n\n\nTelling the story of the Southern American woman
+  – black and white – through the writings of Eudora Welty\, Alice Walker
+ \, Flannery O’Connor\, and Toni Morrison.  FREE and open to the public. 
+ For more information visit cencia.gsu.edu<http://cencia.gsu.edu/>.\n\n\n
+ \n\n\n\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Southern Writers Onstage: Women – Black & White
+DTSTART;TZID=US/Eastern:20170328T120000
+CREATED:20160718T174049Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170405T035959Z;BYDAY=TU;WKST=SU
+BEGIN:VALARM
+X-WR-ALARMUID:54ED2D4D-634F-4155-8C7E-9E50CA43336B
+UID:54ED2D4D-634F-4155-8C7E-9E50CA43336B
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T174049Z
+UID:BC1885B9-C84C-485E-B275-116E005FE75A
+DTEND;VALUE=DATE:20170301
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:The Improvising Brain III: Cultural Variation and Analytical App
+ roaches
+DTSTART;VALUE=DATE:20170226
+DTSTAMP:20160718T172707Z
+LOCATION:Kopleff Recital Hall\, 10 Peachtree Center Ave.
+SEQUENCE:0
+DESCRIPTION:\n\nFollowing the success of the first two Improvising Brain
+  programs\, this symposium and concert event brings together researchers
+  and musicians to explore musical improvisation and its related brain pr
+ ocesses. FREE and open to the public. For more information visit cencia.
+ gsu.edu<http://cencia.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:9E72A255-99B8-4D6D-BC5E-FB18168ED503
+UID:9E72A255-99B8-4D6D-BC5E-FB18168ED503
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:53B48E28-17EE-4FB6-B6E7-CFDC3350DBDC
+UID:53B48E28-17EE-4FB6-B6E7-CFDC3350DBDC
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:719710B2-5EFF-44C6-AA2C-54676C1C23E3
+UID:719710B2-5EFF-44C6-AA2C-54676C1C23E3
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T174049Z
+UID:A31232D7-5F7A-43AF-888B-3BCBDC245016
+DTEND;VALUE=DATE:20170324
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Muslim\, Woman\, and Student in the Contemporary US South 
+DTSTART;VALUE=DATE:20170322
+DTSTAMP:20160718T172901Z
+LOCATION:Auburn Avenue Research Library (101 Auburn Ave NE\, Atlanta\, G
+ A\, US)
+SEQUENCE:0
+DESCRIPTION:\n\nA screening of the documentary film Voices of Muslim Wom
+ en from the US South accompanied by a panel discussion exploring the que
+ stions of experience and identity that Muslim women experience living in
+  the Deep South.  For more information visit cencia.gsu.edu<http://cenci
+ a.gsu.edu/>.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:AED84C3E-23C8-4AE7-930F-61095E84B3E4
+UID:AED84C3E-23C8-4AE7-930F-61095E84B3E4
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:4B2F3BF9-A6C3-44D4-B128-2E720236948A
+UID:4B2F3BF9-A6C3-44D4-B128-2E720236948A
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T174049Z
+UID:D9ACCB70-5C14-457E-89EB-0E2DC3AB3E79
+DTEND;TZID=America/New_York:20160824T150000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Multicultural Center Open House
+DTSTART;TZID=America/New_York:20160824T130000
+DTSTAMP:20160824T205410Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nThis event invites the Georgia State University communit
+ y to join the Multicultural Center and meet our student organizations\, 
+ departments within the Division of Student Affairs\, and more! Student o
+ rganizations and departments are invited to contact cwan@gsu.edu<mailto:
+ cwan@gsu.edu> for tabling requests.\n\n
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T174049Z
+UID:126EED28-FC80-4855-BE10-04A3F1C4F226
+DTEND;TZID=America/New_York:20160825T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Welcome Reception for the Ethnic & Interfaith Communities
+DTSTART;TZID=America/New_York:20160825T110000
+DTSTAMP:20160906T224329Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:This event invites members of religious\, faith\, and ethnic
+  communities to campus. Refreshments provided. Faculty\, Staff and Stude
+ nts are encouraged to attend.\n\n
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T174049Z
+UID:EA140929-EA2B-4CBD-ACF0-A0B8E6D7312A
+DTEND;TZID=America/New_York:20160825T180000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Welcome Reception for the LGBTQIQA Community
+DTSTART;TZID=America/New_York:20160825T160000
+DTSTAMP:20160906T224328Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:This annual event invites members of the LGBTQIQA (Lesbian\,
+  Gay\, Bisexual\, Transgender\, Queer\, Intersex\, Questioning and Asexu
+ al) community and their supportive allies to campus each year. Refreshme
+ nts provided. Faculty\, Staff and Students are encouraged to attend.\n\n
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160830T130000
+UID:ECD55E56-4C39-4423-898E-DFA062E91A3F
+DTSTAMP:20160906T224327Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+DESCRIPTION:\n\nThe Community Conversations program is a weekly opportun
+ ity for students to come into the center to have conversations around a 
+ particular topic or identity. The program is designed to foster communit
+ y building and support for Georgia State University students.\n\n
+SEQUENCE:0
+SUMMARY:Community Conversations (C Squared) 
+DTSTART;TZID=US/Eastern:20160830T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160718T174049Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T045959Z;BYDAY=TU;WKST=SU
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20161201T180000
+UID:ECD55E56-4C39-4423-898E-DFA062E91A3F
+DTSTAMP:20160718T183740Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+DESCRIPTION:\n\n\n\nThis event will allow the C Squared Mentors/Mentees 
+ to come together for a final time at the end of the year to celebrate a 
+ successful semester.\n\n\n\n\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20161129T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Community Conversations (C Squared) Appreciation Reception
+DTSTART;TZID=America/New_York:20161201T170000
+CREATED:20160718T184035Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160831T133000
+UID:9CE6C93A-AC28-4188-BF7B-38C50DE95B44
+DTSTAMP:20160906T224327Z
+LOCATION:Multicultural Center Lounge
+DESCRIPTION:\n\nPop in for pot tarts\, pop\, and pop culture! Pop Talks 
+ are informal weekly discussions (every Wednesday during the semester) ab
+ out pop culture\, national news\, global events\, hot button issues\, so
+ cial needs and/or anything related to multiculturalism\, inclusion\, div
+ ersity\, and/or justice.  Students should bring their own lunch\, someth
+ ing they want to discuss\, and a willingness to think about our world.  
+  The Multicultural Center will provide a facilitator\, pop (sodas)\, and
+  pop tarts!\n\n\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Pop Talks
+DTSTART;TZID=US/Eastern:20160831T121500
+CREATED:20160718T174049Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161201T045959Z;BYDAY=WE;WKST=SU
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160905T130000
+UID:31F46CA5-2D61-424C-8D67-3363F52068F6
+DTSTAMP:20160906T224325Z
+LOCATION:Multicultural Center Lounge
+DESCRIPTION:How can a graphic novel help us think about our world?  What
+  can graphic novels tell us about ourselves? Can graphic novels help us 
+ imagine new possibilities for our world?  Join us every Monday in Septem
+ ber for a discussion of multiculturalism\, diversity and social justice 
+ in Art Spiegelman’s graphic novel\, Maus.  Scott McCloud’s Understanding
+  Comics: An Invisible Art will also be used as an aide throughout the se
+ ries. All are welcome (regardless if you have read the graphic novel)\, 
+ but pre-reading is encouraged.\n\n\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Maus 
+DTSTART;TZID=US/Eastern:20160905T121500
+CREATED:20160718T174049Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160927T035959Z;BYDAY=MO;WKST=SU
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:3FDFF801-639C-4284-91CD-4681E83EAC5F
+DTEND;TZID=America/New_York:20160906T173000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Multicultural Programming Council – Leadership Development Works
+ hop
+DTSTART;TZID=America/New_York:20160906T170000
+DTSTAMP:20160906T224323Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:Held twice per semester\, student organizations are invited 
+ to send 3 representatives to this workshop.  Student Organizations will 
+ be given an opportunity to discuss a leadership development topic releva
+ nt to student organizations\, as well as share resources and events comi
+ ng up within multicultural student organizations. The 3 recommended repr
+ esentatives are: President\, Rising Star\, and Advisor. Attendance of on
+ e student organization representative is required to apply for Multicult
+ ural Programming Funding.\n\n
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:E0EE9621-FD20-49AD-8858-3031C3D27407
+DTEND;TZID=America/New_York:20160908T083000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Poetry Discussion with Andrea Jurjevic
+DTSTART;TZID=America/New_York:20160908T080000
+DTSTAMP:20160909T194909Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nThe Multicultural Center will host scheduled conversatio
+ ns with Georgia State University faculty about their published works tha
+ t focus on a diversity-related topic.  This book discussion will feature
+  the poetry of Andrea Jurjevic\, lecturer in the Creative Writing progra
+ m at Georgia State University and winner of the 2015 2015 Philip Levine 
+ Prize for Poetry!\n\n\n\n\n\n
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:CE5167CD-BDEE-49E2-848A-81C7AA437678
+DTEND;TZID=America/New_York:20160922T150000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Intersections of Identity: Women of Color
+DTSTART;TZID=America/New_York:20160922T140000
+DTSTAMP:20160718T175156Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nStudents are invited to engage in a facilitated discussi
+ on about the experiences of intersecting identities on campus.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:B479B5C1-2F7E-484D-9F9C-4A6D423743EE
+UID:B479B5C1-2F7E-484D-9F9C-4A6D423743EE
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:2AFE8CAC-C157-4F0D-BBC1-7021FCDE078F
+DTEND;TZID=America/New_York:20160915T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Basic Safe Zone Training for Students
+DTSTART;TZID=America/New_York:20160915T140000
+DTSTAMP:20160718T181735Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:These dynamic\, interactive workshops are designed to develo
+ p\, enhance\, and maintain culturally competent and supportive environme
+ nts on Georgia State University’s campus for LGBTQIQA (Lesbian\, Gay\, B
+ isexual\, Transgender\, Queer\, Intersexed\, Questioning\, Asexual) indi
+ viduals\, as well as heterosexual\, cisgender\, and other people who car
+ e about diversity\, equality and inclusion.  Additionally\, Safe Zone pr
+ esentations establish an identifiable network of supportive individuals 
+ who can provide support\, information\, and a safe place for LGBTQIQA pe
+ rsons within our campus community. Those who have committed to being Saf
+ e Zone Allies indicate that bigotry and discrimination\, specifically pe
+ rtaining to members of the LGBTQIQA community\, are not tolerated.  Safe
+  Zone presentations can be adapted to meet the particular needs of class
+ es\, organizations\, or campus entities.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:5579F9F6-BF20-4DE7-AB2B-1C9F2BE1B432
+UID:5579F9F6-BF20-4DE7-AB2B-1C9F2BE1B432
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:051CEDAB-5DD1-4F7A-B773-6C284ECF72CF
+DTEND;TZID=America/New_York:20160923T120000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Basic Safe Zone Training for Faculty & Staff
+DTSTART;TZID=America/New_York:20160923T100000
+DTSTAMP:20160718T175359Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:These dynamic\, interactive workshops are designed to develo
+ p\, enhance\, and maintain culturally competent and supportive environme
+ nts on Georgia State University’s campus for LGBTQIQA (Lesbian\, Gay\, B
+ isexual\, Transgender\, Queer\, Intersexed\, Questioning\, Asexual) indi
+ viduals\, as well as heterosexual\, cisgender\, and other people who car
+ e about diversity\, equality and inclusion.  Additionally\, Safe Zone pr
+ esentations establish an identifiable network of supportive individuals 
+ who can provide support\, information\, and a safe place for LGBTQIQA pe
+ rsons within our campus community. Those who have committed to being Saf
+ e Zone Allies indicate that bigotry and discrimination\, specifically pe
+ rtaining to members of the LGBTQIQA community\, are not tolerated.  Safe
+  Zone presentations can be adapted to meet the particular needs of class
+ es\, organizations\, or campus entities.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:5925A186-A99D-4EBA-8C20-A86A6E8ABE2A
+UID:5925A186-A99D-4EBA-8C20-A86A6E8ABE2A
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:ED15585E-DED5-4508-94C8-442B6C0F84FD
+DTEND;VALUE=DATE:20160925
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Social Justice Retreat
+DTSTART;VALUE=DATE:20160923
+DTSTAMP:20160718T175601Z
+LOCATION:Montara Farms Retreat Site
+SEQUENCE:0
+DESCRIPTION:\n\nThe Mixed Student Union\, PAC3\, and Multicultural Progr
+ amming Council will be invited to spend time in structured leadership de
+ velopment and social justice activities at Montara Farms retreat site fa
+ cilitated by Multicultural Center Staff\, Faculty and/or Montara Farms S
+ taff.\n\n\n\n\n\n\n\n3 p.m. Friday – 4 p.m. Saturday\n\n\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:FD67B3BD-78F0-4234-A6AE-7C92A819BCFA
+UID:FD67B3BD-78F0-4234-A6AE-7C92A819BCFA
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:A5A1A7F8-8AE8-488C-AF43-A71C67B6E262
+UID:A5A1A7F8-8AE8-488C-AF43-A71C67B6E262
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T175833Z
+UID:7E823901-B003-433F-9AA0-51DF1B81ADD7
+DTEND;TZID=America/New_York:20160926T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate Viewing Party – First Presidential Debate
+DTSTART;TZID=America/New_York:20160926T170000
+DTSTAMP:20160718T175818Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nIn conjunction with our Debate the Debates events\, the 
+ Multicultural Center will host debate watch parties and voter registrati
+ on drives.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:C8CBCA81-CBE2-4F58-840B-8BA940C0A51F
+UID:C8CBCA81-CBE2-4F58-840B-8BA940C0A51F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:319C708B-E385-4082-8D2B-07C07B30869A
+DTEND;TZID=America/New_York:20160927T190000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate the Debates – Class and Politics 
+DTSTART;TZID=America/New_York:20160927T173000
+DTSTAMP:20160718T175924Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:In collaboration with student organizations\, Debate the Deb
+ ates provides a forum for discussion and debate on diversity topics rela
+ ted to the 2016 elections.  The first event in the three part series wil
+ l focus on topics related to class\, wealth and/or poverty.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:88168CE4-2DC0-44C2-96E1-19CEFDF07751
+UID:88168CE4-2DC0-44C2-96E1-19CEFDF07751
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:F284C87B-4A66-4066-97A7-048A4DB22C9F
+DTEND;TZID=America/New_York:20160929T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Hispanic Heritage Month Event
+DTSTART;TZID=America/New_York:20160929T180000
+DTSTAMP:20160718T180108Z
+SEQUENCE:0
+DESCRIPTION:\n\nThis event will celebrate Hispanic Heritage Month.\n\n\n
+ \nContact: Laci Lee Adams\, Senior Student Development Specialist for Mu
+ lticultural Education & Competence\, ladams25@gsu.edu\n\n\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:CA5473AA-8A06-4CC2-854B-55E6DDAA30E4
+UID:CA5473AA-8A06-4CC2-854B-55E6DDAA30E4
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:01FE82B0-E1BF-478D-97B5-A324E7B0CD0A
+DTEND;TZID=America/New_York:20161004T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate Viewing Party – First Vice-Presidential Debate
+DTSTART;TZID=America/New_York:20161004T170000
+DTSTAMP:20160718T180615Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nIn conjunction with our Debate the Debates events\, the 
+ Multicultural Center will host debate watch parties and voter registrati
+ on drives.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:942914E4-6E0C-448A-A1AC-E0891C65F240
+UID:942914E4-6E0C-448A-A1AC-E0891C65F240
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:AC97D582-33D4-4BE4-9987-E464375A7987
+DTEND;TZID=America/New_York:20161006T190000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate the Debates – Race and Politics 
+DTSTART;TZID=America/New_York:20161006T173000
+DTSTAMP:20160718T180733Z
+SEQUENCE:0
+DESCRIPTION:\n\nIn collaboration with student organizations\, Debate the
+  Debates provides a forum for discussion and debate on diversity topics 
+ related to the 2016 elections.  The second event in the three part serie
+ s will focus on topics related to race and ethnicity.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4317CEDC-D3DB-43B6-AFC4-F1FE1224C580
+UID:4317CEDC-D3DB-43B6-AFC4-F1FE1224C580
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:B036B713-92FD-4861-AB67-4E0C42298BA4
+DTEND;TZID=America/New_York:20161113T190000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:LGBTQIQA History Month Celebration
+DTSTART;TZID=America/New_York:20161113T170000
+DTSTAMP:20160718T181000Z
+LOCATION:TBD
+SEQUENCE:0
+DESCRIPTION:This event will celebrate LGBTQIQA History Month.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:B8CEDFE1-17DB-4C61-A274-ADCDC71A9B72
+UID:B8CEDFE1-17DB-4C61-A274-ADCDC71A9B72
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:15CAE587-18B6-4447-83C8-5F8B68E4522D
+DTEND;TZID=America/New_York:20161003T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Fun Home: A Fa
+ mily Tragicomic
+DTSTART;TZID=America/New_York:20161003T121500
+DTSTAMP:20160718T181131Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nHow can a graphic novel help us think about our world?  
+ What can graphic novels tell us about ourselves? Can graphic novels help
+  us imagine new possibilities for our world?  Join us every Monday in Oc
+ tober for a discussion of multiculturalism\, diversity and social justic
+ e in Alison Bechdel’s graphic novel\, Fun Home: A Family Tragicomic.  Sc
+ ott McCloud’s Understanding Comics: An Invisible Art will also be used a
+ s an aide throughout the series. All are welcome (regardless if you have
+  read the graphic novel)\, but pre-reading is encouraged.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:7D922228-7D8C-48BC-A291-F87F7166095F
+UID:7D922228-7D8C-48BC-A291-F87F7166095F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:C2EDC459-D78D-4D12-9E7F-904ADBFEB1F9
+DTEND;TZID=America/New_York:20161017T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Fun Home: A Fa
+ mily Tragicomic
+DTSTART;TZID=America/New_York:20161017T121500
+DTSTAMP:20160718T181244Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nHow can a graphic novel help us think about our world?  
+ What can graphic novels tell us about ourselves? Can graphic novels help
+  us imagine new possibilities for our world?  Join us every Monday in Oc
+ tober for a discussion of multiculturalism\, diversity and social justic
+ e in Alison Bechdel’s graphic novel\, Fun Home: A Family Tragicomic.  Sc
+ ott McCloud’s Understanding Comics: An Invisible Art will also be used a
+ s an aide throughout the series. All are welcome (regardless if you have
+  read the graphic novel)\, but pre-reading is encouraged.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:62193390-BFE2-4139-8A15-23BF6FCEA03F
+UID:62193390-BFE2-4139-8A15-23BF6FCEA03F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:93933E67-1A3C-4411-857F-588F358A2FA0
+DTEND;TZID=America/New_York:20161019T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Book Discussion with Jonathan Todres
+DTSTART;TZID=America/New_York:20161019T140000
+DTSTAMP:20160718T181346Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nThe Multicultural Center will host scheduled conversatio
+ ns with Georgia State University faculty about their published works tha
+ t focus on a diversity-related topic.  This book discussion will feature
+  Jonathan Todres’ book titled\, Human Rights in Children’s Literature: I
+ magination and the Narrative of Law.  Jonathan Todres is a Professor of 
+ Law for the Center for Law\, Health and Society.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4A2E0447-39E5-42ED-9537-F4CFC5295404
+UID:4A2E0447-39E5-42ED-9537-F4CFC5295404
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T181628Z
+UID:92EF709A-C846-487F-9BD6-B67B62302FF5
+DTEND;TZID=America/New_York:20161019T220000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate Viewing Party – Last Presidential Debate
+DTSTART;TZID=America/New_York:20161019T170000
+DTSTAMP:20160718T181544Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nIn conjunction with our Debate the Debates events\, the 
+ Multicultural Center will host debate watch parties and voter registrati
+ on drives.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:57A423E5-2783-43AF-8A7C-7190B451C8F0
+UID:57A423E5-2783-43AF-8A7C-7190B451C8F0
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:076A6804-8054-416F-86A7-812AE405D344
+DTEND;TZID=America/New_York:20161020T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Basic Safe Zone Training for Students
+DTSTART;TZID=America/New_York:20161020T140000
+DTSTAMP:20160718T181939Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nThese dynamic\, interactive workshops are designed to de
+ velop\, enhance\, and maintain culturally competent and supportive envir
+ onments on Georgia State University’s campus for LGBTQIQA (Lesbian\, Gay
+ \, Bisexual\, Transgender\, Queer\, Intersexed\, Questioning\, Asexual) 
+ individuals\, as well as heterosexual\, cisgender\, and other people who
+  care about diversity\, equality and inclusion.  Additionally\, Safe Zon
+ e presentations establish an identifiable network of supportive individu
+ als who can provide support\, information\, and a safe place for LGBTQIQ
+ A persons within our campus community. Those who have committed to being
+  Safe Zone Allies indicate that bigotry and discrimination\, specificall
+ y pertaining to members of the LGBTQIQA community\, are not tolerated.  
+ Safe Zone presentations can be adapted to meet the particular needs of c
+ lasses\, organizations\, or campus entities.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:93358B39-A811-4F3A-B78F-C455FCF83398
+UID:93358B39-A811-4F3A-B78F-C455FCF83398
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:319063CB-91D6-4623-B593-65F44BD833F9
+DTEND;TZID=America/New_York:20161020T190000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Debate the Debates – Gender\, Sexual Orientation and Politics 
+DTSTART;TZID=America/New_York:20161020T173000
+DTSTAMP:20160718T182053Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:\n\nIn collaboration with student organizations\, Debate the
+  Debates provides a forum for discussion and debate on diversity topics 
+ related to the 2016 elections.  The first event in the three part series
+  will focus on topics related to gender\, gender identity and sexual ori
+ entation.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4097A637-5C57-47BF-AB51-495A8A550929
+UID:4097A637-5C57-47BF-AB51-495A8A550929
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:F7484800-A6C1-4044-8BAE-297AC563F8D7
+DTEND;TZID=America/New_York:20161024T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Fun Home: A Fa
+ mily Tragicomic
+DTSTART;TZID=America/New_York:20161024T121500
+DTSTAMP:20160718T182212Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:How can a graphic novel help us think about our world?  What
+  can graphic novels tell us about ourselves? Can graphic novels help us 
+ imagine new possibilities for our world?  Join us every Monday in Octobe
+ r for a discussion of multiculturalism\, diversity and social justice in
+  Alison Bechdel’s graphic novel\, Fun Home: A Family Tragicomic.  Scott 
+ McCloud’s Understanding Comics: An Invisible Art will also be used as an
+  aide throughout the series. All are welcome (regardless if you have rea
+ d the graphic novel)\, but pre-reading is encouraged.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:DF632ECC-89A7-4627-B8B0-EAF0F8BB1D77
+UID:DF632ECC-89A7-4627-B8B0-EAF0F8BB1D77
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:EB66B69D-1BCB-40B6-B96C-D2694A862D05
+DTEND;TZID=America/New_York:20161024T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Bias & Bystanders Workshop
+DTSTART;TZID=America/New_York:20161024T150000
+DTSTAMP:20160718T182328Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nStudents are invited to engage in a workshop that will a
+ ddress bias\, bystander intervention\, hate speech\, and creating an inc
+ lusive campus community.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:6A75F717-D22D-49D5-83BB-06CD9D761A80
+UID:6A75F717-D22D-49D5-83BB-06CD9D761A80
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:2A1465C6-C377-43CB-AFDF-3F32A0ABAF7C
+DTEND;TZID=America/New_York:20161024T180000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Multicultural Programming Council – Leadership Development Works
+ hop
+DTSTART;TZID=America/New_York:20161024T170000
+DTSTAMP:20160718T182455Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nHeld twice per semester\, student organizations are invi
+ ted to send 3 representatives to this workshop.  Student Organizations w
+ ill be given an opportunity to discuss a leadership development topic re
+ levant to student organizations\, as well as share resources and events 
+ coming up within multicultural student organizations. The 3 recommended 
+ representatives are: President\, Rising Star\, and Advisor. Attendance o
+ f one student organization representative is required to apply for Multi
+ cultural Programming Funding.\n\n\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:B45EDAF7-D80F-42AA-8EB8-783DCDE83564
+UID:B45EDAF7-D80F-42AA-8EB8-783DCDE83564
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:F1DEE08F-25D9-474D-BEEF-BE80E378F16D
+DTEND;TZID=America/New_York:20161027T150000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Intersections of Identity: Queer People of Color
+DTSTART;TZID=America/New_York:20161027T140000
+DTSTAMP:20160718T182606Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nStudents are invited to engage in a facilitated discussi
+ on about the experiences of intersecting identities on campus.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:B79872A0-FA24-49FE-A14C-FC2BE7267B78
+UID:B79872A0-FA24-49FE-A14C-FC2BE7267B78
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:F3480FC2-2C37-4657-AA17-DC87861E9246
+DTEND;TZID=America/New_York:20161028T120000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Basic Safe Zone Training for Faculty & Staff
+DTSTART;TZID=America/New_York:20161028T100000
+DTSTAMP:20160718T182713Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nThese dynamic\, interactive workshops are designed to de
+ velop\, enhance\, and maintain culturally competent and supportive envir
+ onments on Georgia State University’s campus for LGBTQIQA (Lesbian\, Gay
+ \, Bisexual\, Transgender\, Queer\, Intersexed\, Questioning\, Asexual) 
+ individuals\, as well as heterosexual\, cisgender\, and other people who
+  care about diversity\, equality and inclusion.  Additionally\, Safe Zon
+ e presentations establish an identifiable network of supportive individu
+ als who can provide support\, information\, and a safe place for LGBTQIQ
+ A persons within our campus community. Those who have committed to being
+  Safe Zone Allies indicate that bigotry and discrimination\, specificall
+ y pertaining to members of the LGBTQIQA community\, are not tolerated.  
+ Safe Zone presentations can be adapted to meet the particular needs of c
+ lasses\, organizations\, or campus entities.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:43108AB2-1B81-4BF6-95CD-81076A5A7FED
+UID:43108AB2-1B81-4BF6-95CD-81076A5A7FED
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:AEF3E993-F295-4736-A86A-6D971871D27E
+DTEND;TZID=America/New_York:20161031T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Fun Home: A Fa
+ mily Tragicomic
+DTSTART;TZID=America/New_York:20161031T121500
+DTSTAMP:20160718T182807Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:How can a graphic novel help us think about our world?  What
+  can graphic novels tell us about ourselves? Can graphic novels help us 
+ imagine new possibilities for our world?  Join us every Monday in Octobe
+ r for a discussion of multiculturalism\, diversity and social justice in
+  Alison Bechdel’s graphic novel\, Fun Home: A Family Tragicomic.  Scott 
+ McCloud’s Understanding Comics: An Invisible Art will also be used as an
+  aide throughout the series. All are welcome (regardless if you have rea
+ d the graphic novel)\, but pre-reading is encouraged.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:986B249D-0349-4BD1-9F58-10020BCBDAB4
+UID:986B249D-0349-4BD1-9F58-10020BCBDAB4
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:B85D8AFC-01F1-41C7-BC1C-C19F20CDEC84
+DTEND;TZID=America/New_York:20161117T150000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Intersections of Identity: Men of Color
+DTSTART;TZID=America/New_York:20161117T140000
+DTSTAMP:20160718T183108Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nStudents are invited to engage in a facilitated discussi
+ on about the experiences of intersecting identities on campus.\n\n\n\n\n
+ \n
+BEGIN:VALARM
+X-WR-ALARMUID:DAC5D871-C4B9-4186-BBFA-BE0877F2FFA9
+UID:DAC5D871-C4B9-4186-BBFA-BE0877F2FFA9
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:22AFD30C-D970-419F-8F26-9398537503A8
+DTEND;TZID=America/New_York:20161116T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY: Book Discussion with Dr. Anne Shlay
+DTSTART;TZID=America/New_York:20161116T140000
+DTSTAMP:20160718T183200Z
+LOCATION:Multicultural Center Lounge
+SEQUENCE:0
+DESCRIPTION:The Multicultural Center will host scheduled conversations w
+ ith Georgia State University faculty about their published works that fo
+ cus on a diversity-related topic.  This book discussion will feature Dr.
+  Anne Shlay’s book\, Jerusalem: The Spatial Politics of a Divided Metrop
+ olis.  Dr. Shlay is a professor in the Sociology Department.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:F33BD9CF-F01C-483A-AD12-838AC6D13BC6
+UID:F33BD9CF-F01C-483A-AD12-838AC6D13BC6
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T183429Z
+UID:1082342A-E4F0-4DFF-BC85-917FA03E3547
+DTEND;TZID=America/New_York:20161117T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY: Basic Safe Zone Training for Students
+DTSTART;TZID=America/New_York:20161117T140000
+DTSTAMP:20160718T183258Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nThese dynamic\, interactive workshops are designed to de
+ velop\, enhance\, and maintain culturally competent and supportive envir
+ onments on Georgia State University’s campus for LGBTQIQA (Lesbian\, Gay
+ \, Bisexual\, Transgender\, Queer\, Intersexed\, Questioning\, Asexual) 
+ individuals\, as well as heterosexual\, cisgender\, and other people who
+  care about diversity\, equality and inclusion.  Additionally\, Safe Zon
+ e presentations establish an identifiable network of supportive individu
+ als who can provide support\, information\, and a safe place for LGBTQIQ
+ A persons within our campus community. Those who have committed to being
+  Safe Zone Allies indicate that bigotry and discrimination\, specificall
+ y pertaining to members of the LGBTQIQA community\, are not tolerated.  
+ Safe Zone presentations can be adapted to meet the particular needs of c
+ lasses\, organizations\, or campus entities.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:52951547-613D-4E63-BD5D-1A61471C34F1
+UID:52951547-613D-4E63-BD5D-1A61471C34F1
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20161107T130000
+UID:B764B2E0-D79E-40F4-9A15-E73B625981CC
+EXDATE;TZID=US/Eastern:20161121T121500
+DTSTAMP:20160718T183316Z
+LOCATION:Multicultural Center Lounge
+DESCRIPTION:\n\nHow can a graphic novel help us think about our world?  
+ What can graphic novels tell us about ourselves? Can graphic novels help
+  us imagine new possibilities for our world?  Join us every Monday in Oc
+ tober for a discussion of multiculturalism\, diversity and social justic
+ e in Moonshot: The Indigenous Comics Collection edited by Hope Nicholson
+ .  Scott McCloud’s Understanding Comics: An Invisible Art will also be u
+ sed as an aide throughout the series. All are welcome (regardless if you
+  have read the graphic novel)\, but pre-reading is encouraged.\n\n\n\n\n
+ \n
+SEQUENCE:0
+SUMMARY:Revolutionary Images: Graphic Novel Discussion of Moonshot: The 
+ Indigenous Comics Collection 
+DTSTART;TZID=US/Eastern:20161107T121500
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160718T183429Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161129T045959Z;BYDAY=MO;WKST=SU
+BEGIN:VALARM
+X-WR-ALARMUID:B24903DC-0F36-4B2E-B9B9-4C099724CB83
+UID:B24903DC-0F36-4B2E-B9B9-4C099724CB83
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T184035Z
+UID:D5316D52-3D2B-4029-8B8F-E2481A3C39EA
+DTEND;TZID=America/New_York:20161117T210000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Native American/American Indian Heritage Month Event
+DTSTART;TZID=America/New_York:20161117T180000
+DTSTAMP:20160718T183431Z
+SEQUENCE:0
+DESCRIPTION:This event will celebrate Native American/American Indian Mo
+ nth.\n\n\n\n\n\n\n\n\n\nContact: Laci Lee Adams\, Senior Student Develop
+ ment Specialist for Multicultural Education & Competence\, ladams25@gsu.
+ edu\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:511D9D8E-0FA2-402A-A6BD-7F31A595E5A0
+UID:511D9D8E-0FA2-402A-A6BD-7F31A595E5A0
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T184035Z
+UID:78EFB81B-3A85-4D5F-9572-FC017526D5C9
+DTEND;TZID=America/New_York:20161129T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Bias & Bystanders Workshop
+DTSTART;TZID=America/New_York:20161129T150000
+DTSTAMP:20160718T183542Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\nStudents are invited to engage in a workshop that will a
+ ddress bias\, bystander intervention\, hate speech\, and creating an inc
+ lusive campus community.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:A2A7874C-CF70-42DA-A8F8-BF73D8136898
+UID:A2A7874C-CF70-42DA-A8F8-BF73D8136898
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T184035Z
+UID:CF8E3A57-1E6E-467C-99DA-726B8D1139A2
+DTEND;TZID=America/New_York:20161129T200000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Art as Politics
+DTSTART;TZID=America/New_York:20161129T170000
+DTSTAMP:20160718T183621Z
+LOCATION:Multicultural Center\, Suite 206\, Student Center East
+SEQUENCE:0
+DESCRIPTION:\n\n\n\nArt can voice our concerns\, critiques and questions
+ . It can express our frustrations and anxieties.  It can offer us solace
+ \, comfort and support.  The art show will feature student art inspired 
+ and/or related to politics\, political concerns\, and/or the election.  
+ Drop into the show\, experience your classmates’ artwork\, and possibly 
+ engage in conversation!  Performance art\, multimedia art\, and traditio
+ nal art are all welcome for submission.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:291356EF-5599-4103-A5CE-62C164E96D58
+UID:291356EF-5599-4103-A5CE-62C164E96D58
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160718T184035Z
+UID:7F744DC3-1B49-4F88-B1C9-7CB31B4B2AEE
+DTEND;TZID=America/New_York:20161201T133000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Celebrating Winter Holidays Around the World
+DTSTART;TZID=America/New_York:20161201T120000
+DTSTAMP:20160718T183859Z
+LOCATION:Student Center East\, Courtyard Stage\, First Floor
+SEQUENCE:0
+DESCRIPTION:As the semester comes to a close\, join us for a celebration
+  of Winter Holidays Around the World. Come see student groups share in t
+ he excitement of their cultural holidays in the forms of song\, dance\, 
+ poetry\, regalia\, customs\, and traditions practiced during winter holi
+ days across the globe. Refreshments provided. Bring your Panther I.D. Fr
+ ee giveaways.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:52E77D32-E472-4D56-9AEC-44AAD19342F1
+UID:52E77D32-E472-4D56-9AEC-44AAD19342F1
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=US/Eastern:20160914T140000
+UID:7523CB88-C56C-47BD-A244-918FB22FC957
+DTSTAMP:20160829T050735Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350\;12-2 p.m.
+DESCRIPTION:This is a free event. Registration is required. To register\
+ , select the session(s) you would like to attend using the registration 
+ form link below. Limit 50 registrants per session.\n\nhttp://goo.gl/eo6H
+ A6\n\n\n\n
+SEQUENCE:0
+SUMMARY:Creating Inclusive Communities Dialogue Series
+DTSTART;TZID=US/Eastern:20160914T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160825T215747Z
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20161103T035959Z;BYDAY=WE;WKST=SU
+BEGIN:VALARM
+X-WR-ALARMUID:32A50B0C-E21A-46B7-81D3-FA748512D420
+UID:32A50B0C-E21A-46B7-81D3-FA748512D420
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20161012T140000
+UID:7523CB88-C56C-47BD-A244-918FB22FC957
+DTSTAMP:20160825T220651Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350\;12-2 p.m.
+DESCRIPTION:This is a free event. Registration is required. To register\
+ , select the session(s) you would like to attend using the registration 
+ form link below. Limit 50 registrants per session.\n\nhttp://goo.gl/eo6H
+ A6\n\n\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20161012T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Culture & Values in the Workplace - Creating Inclusive Communiti
+ es Dialogue Series
+DTSTART;TZID=America/New_York:20161012T120000
+CREATED:20160825T221244Z
+BEGIN:VALARM
+X-WR-ALARMUID:CCD138CA-8697-428B-A5B7-50A26AC162FE
+UID:CCD138CA-8697-428B-A5B7-50A26AC162FE
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20160914T140000
+UID:7523CB88-C56C-47BD-A244-918FB22FC957
+DTSTAMP:20160825T220558Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350\;12-2 p.m.
+DESCRIPTION:This is a free event. Registration is required. To register\
+ , select the session(s) you would like to attend using the registration 
+ form link below. Limit 50 registrants per session.\n\nhttp://goo.gl/eo6H
+ A6\n\n\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20160914T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Race & Inclusion in the Workplace - Creating Inclusive Communiti
+ es Dialogue Series
+DTSTART;TZID=America/New_York:20160914T120000
+CREATED:20160825T221244Z
+BEGIN:VALARM
+X-WR-ALARMUID:9D75691E-5108-42AC-8D6C-5892A240314B
+UID:9D75691E-5108-42AC-8D6C-5892A240314B
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20161102T140000
+UID:7523CB88-C56C-47BD-A244-918FB22FC957
+DTSTAMP:20160825T220748Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350\;12-2 p.m.
+DESCRIPTION:This is a free event. Registration is required. To register\
+ , select the session(s) you would like to attend using the registration 
+ form link below. Limit 50 registrants per session.\n\nhttp://goo.gl/eo6H
+ A6\n\n\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20161026T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Civility in the Workplace - Creating Inclusive Communities Dialo
+ gue Series
+DTSTART;TZID=America/New_York:20161102T120000
+CREATED:20160825T215746Z
+BEGIN:VALARM
+X-WR-ALARMUID:46DC20E9-6DDD-446B-A902-B268A6777583
+UID:46DC20E9-6DDD-446B-A902-B268A6777583
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20160928T140000
+UID:7523CB88-C56C-47BD-A244-918FB22FC957
+DTSTAMP:20160825T220630Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350\;12-2 p.m.
+DESCRIPTION:This is a free event. Registration is required. To register\
+ , select the session(s) you would like to attend using the registration 
+ form link below. Limit 50 registrants per session.\n\nhttp://goo.gl/eo6H
+ A6\n\n\n\n
+SEQUENCE:0
+RECURRENCE-ID;TZID=US/Eastern:20160928T120000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY: Transgender Inclusion in the Workplace - Creating Inclusive Com
+ munities Dialogue Series
+DTSTART;TZID=America/New_York:20160928T120000
+CREATED:20160825T221244Z
+BEGIN:VALARM
+X-WR-ALARMUID:557E99F9-891B-4BCC-84FA-9BB14889B67F
+UID:557E99F9-891B-4BCC-84FA-9BB14889B67F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160825T221244Z
+UID:230A23C6-E48C-4CA2-8A13-42017B34D13D
+DTEND;TZID=America/New_York:20161213T130000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Diversity & Inclusion Lunch Forum
+DTSTART;TZID=America/New_York:20161213T110000
+DTSTAMP:20160829T054040Z
+LOCATION:International Center Main Conference Room | Dahlberg Hall\, Roo
+ m 350
+SEQUENCE:0
+DESCRIPTION:\n\nTOPIC\n\n\n\nStrategies to Engage Students\, Faculty\, a
+ nd Staff around Race & Inclusion\n\n\n\n\n\nSPEAKER\n\n\n\nDr. Damon A. 
+ Williams\, Senior Vice President & Chief Education Officer\, Boys & Girl
+ s Clubs of America\; former Associate Vice Chancellor\, Vice Provost\, C
+ hief Diversity Officer and faculty member in the department of education
+ al leadership and policy analysis\, University of Wisconsin-Madison.\n\n
+ \n\n\n\nCOST/REGISTRATION\n\n\n\nThis is a free event. Registration is r
+ equired. For more information on registration\, please contact diversity
+ @gsu.edu. Lunch will be provided.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:81F5C2D5-5B3A-4DE6-A48E-29B008613F21
+UID:81F5C2D5-5B3A-4DE6-A48E-29B008613F21
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T051150Z
+UID:D4C68B8C-33CA-4A07-B4EB-AD59C31A18E5
+DTEND;TZID=America/New_York:20160922T163000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Managing Others in a Diverse Workplace - Diversity & Inclusion W
+ orkshops
+DTSTART;TZID=America/New_York:20160922T133000
+DTSTAMP:20160829T051552Z
+LOCATION:HR Training Room\, 1 Park Place\, Basement
+SEQUENCE:0
+DESCRIPTION:This interactive workshop has been designed for managers and
+  aspiring managers in mind. It creates a space and provides tools to ass
+ ist participants in building a new model for addressing conflict around 
+ differences in the workplace. Further\, this workshop will facilitate pa
+ rticipants’ clarification of those diversity competencies needed to mana
+ ge others more effectively in a diverse and global workplace\n\n\n\n\n\n
+ \n\nFree\n\n\n\n\n\nRegistration required.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4DE650AA-E387-4DA8-8A16-01BDF4FEE41F
+UID:4DE650AA-E387-4DA8-8A16-01BDF4FEE41F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T051150Z
+UID:97A8EFD2-97EE-41B0-B518-53E8F505F1CC
+DTEND;TZID=America/New_York:20161018T163000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Managing Yourself in a Diverse Workplace - Diversity & Inclusion
+  Workshops
+DTSTART;TZID=America/New_York:20161018T133000
+DTSTAMP:20160829T051533Z
+LOCATION:HR Training Room\, 1 Park Place\, Basement
+SEQUENCE:0
+DESCRIPTION:This workshop is designed to engage participants in interact
+ ive learning exercises in increasing self-awareness about their strength
+ s and challenges around differences and similarities\, i.e. diversity. P
+ articipants will be required to take a diversity self-assessment instrum
+ ent before the workshop so that they will gain personal insight into the
+ ir comforts and challenges regarding race\, gender\, sexual orientation\
+ , religion\, culture\, etc.\n\n\n\n\n\n\n\nCost - $50 (includes Diversit
+ y & Cultural Awareness Profile self-assessment instrument)\n\n\n\n\n\n\n
+ \n\n\nRegistration required.\n\n\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:5E6604D8-AA2F-4112-9677-522C20B604C8
+UID:5E6604D8-AA2F-4112-9677-522C20B604C8
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T051745Z
+UID:F719424C-E0F3-45FB-AD5E-B5BD7268E6B3
+DTEND;TZID=America/New_York:20161116T163000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Creating an Inclusive Workplace: Understanding/Managing Bias - D
+ iversity & Inclusion Workshops
+DTSTART;TZID=America/New_York:20161116T133000
+DTSTAMP:20160829T051454Z
+LOCATION:HR Training Room\, 1 Park Place\, Basement
+SEQUENCE:0
+DESCRIPTION:This 3-hour course challenges employees to rethink their def
+ initions and perceptions of diversity. Participants will gain a better u
+ nderstanding of their own social identities and explore various ways tho
+ se identities inform the way they view other people. The objective of th
+ is workshop is to enhance participants’ ability to worth through challen
+ ges around conscious and unconscious bias.\n\n\n\n\n\n\n\nFree\n\nRegist
+ ration required.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:4A7FFFA6-7064-4230-A7FD-33A0066F21BB
+UID:4A7FFFA6-7064-4230-A7FD-33A0066F21BB
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T051745Z
+UID:75B08E90-1D3B-4BCA-8E79-CAC439824409
+DTEND;TZID=America/New_York:20161025T160000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Transgender Inclusion in the Workplace - Diversity & Inclusion W
+ orkshops
+DTSTART;TZID=America/New_York:20161025T133000
+DTSTAMP:20160829T051517Z
+LOCATION:HR Training Room\, 1 Park Place\, Basement
+SEQUENCE:0
+DESCRIPTION: The goal of this 2.5 hour workshop is to help create a more
+  inclusive workplace environment by creating awareness and dispelling my
+ ths and misconceptions about transgender people. Participants will:\n\n\
+ n\n• Increase their awareness of transgender people and the process of t
+ ransitioning\n\n\n\n• Broaden knowledge about what it means to be transg
+ ender\n\n\n\n• Explore the challenges of transgender inclusion in the wo
+ rkplace\n\n\n\n\n\n\n\nFree\n\n\n\nRegistration required.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:F55889D9-679C-417E-9566-6A64AF55213C
+UID:F55889D9-679C-417E-9566-6A64AF55213C
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T052649Z
+UID:935ECEBC-D7A9-4C2B-80B5-80995C49CA7B
+RRULE:FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=1
+DTEND;VALUE=DATE:20170102
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:New Year's Day
+DTSTART;VALUE=DATE:20170101
+DTSTAMP:20160829T052204Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:9BC8A5D2-CD75-480C-A58C-94BFC82029B7
+UID:9BC8A5D2-CD75-480C-A58C-94BFC82029B7
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:543E9D36-B582-4A41-86BE-80E18E87405B
+UID:543E9D36-B582-4A41-86BE-80E18E87405B
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T052649Z
+UID:00F5B4B7-B0DC-4C4E-BEFA-D5B297443806
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=3MO
+DTEND;VALUE=DATE:20170117
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Martin Luther King Jr. Day
+DTSTART;VALUE=DATE:20170116
+DTSTAMP:20160829T052407Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:72F50169-BB67-4860-822D-C2F70F843B1F
+UID:72F50169-BB67-4860-822D-C2F70F843B1F
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:92B9E723-DF8B-4591-A0F8-CCB7F938BDAA
+UID:92B9E723-DF8B-4591-A0F8-CCB7F938BDAA
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:D8069D24-266F-4301-A15F-F2F680B192FD
+RRULE:FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=4
+DTEND;VALUE=DATE:20160705
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Independance Day
+DTSTART;VALUE=DATE:20160704
+DTSTAMP:20160829T052742Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:77906EAB-9222-4099-B5F6-722766B51CB6
+UID:77906EAB-9222-4099-B5F6-722766B51CB6
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:4EEB506C-61AF-4A87-8360-E0DF2B9DCB59
+UID:4EEB506C-61AF-4A87-8360-E0DF2B9DCB59
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:C40CEC23-E8AA-49E2-B102-065DE9037D65
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1MO
+DTEND;VALUE=DATE:20160906
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Labor Day
+DTSTART;VALUE=DATE:20160905
+DTSTAMP:20160829T052929Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:25E948A0-2EED-456E-BEE9-A6C2B1CE5A62
+UID:25E948A0-2EED-456E-BEE9-A6C2B1CE5A62
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:AF232F9C-3D3A-4EB9-AF4C-BE146B8EA161
+UID:AF232F9C-3D3A-4EB9-AF4C-BE146B8EA161
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:595337CB-F966-4130-8AFA-4E2B091D7825
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=4TH
+DTEND;VALUE=DATE:20161125
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Thanksgiving
+DTSTART;VALUE=DATE:20161124
+DTSTAMP:20160829T053258Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:B4006ED3-F71C-4492-A671-7F94A6B4731F
+UID:B4006ED3-F71C-4492-A671-7F94A6B4731F
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:CFB87D51-0CC9-45A7-AF0E-920D813673EA
+UID:CFB87D51-0CC9-45A7-AF0E-920D813673EA
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:54805B52-211D-4608-A539-E21034458489
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=4FR
+DTEND;VALUE=DATE:20161126
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Thanksgiving
+DTSTART;VALUE=DATE:20161125
+DTSTAMP:20160829T053414Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:A9CFD6F3-3663-43E3-8DBB-2AF2F276D006
+UID:A9CFD6F3-3663-43E3-8DBB-2AF2F276D006
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:86918EE2-072B-4E8F-9F3D-AEFD29340762
+UID:86918EE2-072B-4E8F-9F3D-AEFD29340762
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:CE509BEB-1241-4A3C-86F6-2C037656C551
+DTEND;VALUE=DATE:20161224
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Winter Break
+DTSTART;VALUE=DATE:20161219
+DTSTAMP:20160829T053627Z
+SEQUENCE:0
+DESCRIPTION:Holiday Time Used\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:92C048DA-5D67-4942-8E2E-D2EB0A5E300C
+UID:92C048DA-5D67-4942-8E2E-D2EB0A5E300C
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:5D00A979-6C0A-4C45-A3C1-834A84CF7D92
+UID:5D00A979-6C0A-4C45-A3C1-834A84CF7D92
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:BDD8AAB9-6B92-4617-8441-FC2B085C76DB
+DTEND;TZID=America/New_York:20161229T083000
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Winter Break
+DTSTART;TZID=America/New_York:20161226T080000
+DTSTAMP:20160829T053756Z
+SEQUENCE:0
+DESCRIPTION:Vacation Time Used\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:364EBD6A-80E8-4096-9D52-0D4069B4FFE5
+UID:364EBD6A-80E8-4096-9D52-0D4069B4FFE5
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160829T053946Z
+UID:39940E0F-3BA1-4952-85BC-D241BB7CAB23
+DTEND;VALUE=DATE:20161231
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:New Years Day 2017
+DTSTART;VALUE=DATE:20161230
+DTSTAMP:20160829T053845Z
+SEQUENCE:0
+BEGIN:VALARM
+X-WR-ALARMUID:8932F27B-E467-4B6A-B540-5704F1215363
+UID:8932F27B-E467-4B6A-B540-5704F1215363
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:ED5ED307-8D3A-48DB-B949-4A7E5AB70A01
+UID:ED5ED307-8D3A-48DB-B949-4A7E5AB70A01
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T150541Z
+UID:2291340F-8BF0-4D7B-90C2-A4236F71A331
+DTEND;VALUE=DATE:20160912
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Eid-al-Adha
+DTSTART;VALUE=DATE:20160911
+DTSTAMP:20160912T145829Z
+SEQUENCE:0
+DESCRIPTION:Eid-al-Adha also called the "Sacrifice Feast" or "Bakr-Eid\,
+ " is the second of two Muslim holidays celebrated worldwide each year\, 
+ and considered the holier of the two.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:957CA127-BFD9-4393-8475-0F3F3F58C92D
+UID:957CA127-BFD9-4393-8475-0F3F3F58C92D
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:EFE24CD8-CA1B-4292-B342-9DDACA969DE2
+UID:EFE24CD8-CA1B-4292-B342-9DDACA969DE2
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T150541Z
+UID:C066DE4A-8CCF-4105-9366-BECD6238A618
+DTEND;VALUE=DATE:20161011
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Navaratri
+DTSTART;VALUE=DATE:20161001
+DTSTAMP:20160912T150122Z
+SEQUENCE:0
+DESCRIPTION:Navaratri is a festival dedicated to the worship of the Hind
+ u deity Durga. The word Navaratri means 'nine nights' in Sanskrit\, nava
+  meaning nine and ratri meaning nights. During these nine nights and ten
+  days\, nine forms of Devi are worshipped.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:D5D44DBB-9215-4591-8EA5-F05958F27B91
+UID:D5D44DBB-9215-4591-8EA5-F05958F27B91
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:A232422A-D577-4239-B91D-C85B69AE4B44
+UID:A232422A-D577-4239-B91D-C85B69AE4B44
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T150541Z
+UID:A04FEB64-2092-4D7F-B099-1698C2C36918
+DTEND;VALUE=DATE:20161005
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Rosh Hashanah
+DTSTART;VALUE=DATE:20161003
+DTSTAMP:20160912T150258Z
+SEQUENCE:0
+DESCRIPTION:Rosh Hashanah (Hebrew: רֹאשׁ הַשָּׁנָה\, literally "head [of
+ ] the year") is the Jewish New Year. The biblical name for this holiday 
+ is Yom Teruah (Hebrew: יוֹם תְּרוּעָה)\, literally "day [of] shouting / 
+ blasting"\, sometimes translated as the Feast of Trumpets.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:7A104870-240E-48F8-9DC1-42262996D176
+UID:7A104870-240E-48F8-9DC1-42262996D176
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:AD44ECFC-3551-43B2-B141-BD58C9F3F145
+UID:AD44ECFC-3551-43B2-B141-BD58C9F3F145
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T150541Z
+UID:F6EB9AF6-3E95-4D2E-88D7-E65C15313429
+DTEND;VALUE=DATE:20161013
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Yom Kippur
+DTSTART;VALUE=DATE:20161012
+DTSTAMP:20160912T150405Z
+SEQUENCE:0
+DESCRIPTION:Yom Kippur is "the tenth day of [the] seventh month" (Tishre
+ i) and is regarded as the "Sabbath of Sabbaths". Rosh Hashanah (referred
+  to in the Torah as Yom Teruah) is the first day of that month according
+  to the Hebrew calendar. On this day forgiveness of sins is also asked o
+ f God.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:64A86259-FB3D-4605-8864-76BA60683586
+UID:64A86259-FB3D-4605-8864-76BA60683586
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:C41C7202-89A3-42F6-8DFA-14E1772C99E0
+UID:C41C7202-89A3-42F6-8DFA-14E1772C99E0
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:E8313262-0128-45F6-82C3-BE272B1EF192
+DTEND;VALUE=DATE:20161031
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Diwali
+DTSTART;VALUE=DATE:20161030
+DTSTAMP:20160912T150842Z
+SEQUENCE:0
+DESCRIPTION:Diwali is also known as दीपोत्सव dīpotsava "festival of ligh
+ ts"\n\nDiwali is an ancient Hindu festival celebrated in autumn or sprin
+ g every year. Arguably the most important festival in Hinduism.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:E5ACF91C-D0BC-4088-A25D-C02D044DFC07
+UID:E5ACF91C-D0BC-4088-A25D-C02D044DFC07
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:E460CDC4-C406-4951-AE7C-3A6792268641
+UID:E460CDC4-C406-4951-AE7C-3A6792268641
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:20D0D17A-A21F-4D91-966B-7C970B45219A
+DTEND;VALUE=DATE:20161226
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Christmas Day
+DTSTART;VALUE=DATE:20161225
+DTSTAMP:20160912T150946Z
+SEQUENCE:0
+DESCRIPTION:Christmas or Christmas Day is an annual festival commemorati
+ ng the birth of Jesus Christ\, observed most commonly on December 25 as 
+ a religious and cultural celebration among billions of people around the
+  world.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:FD70569D-68B9-415F-8532-A025EF5ED75F
+UID:FD70569D-68B9-415F-8532-A025EF5ED75F
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:546E39C3-2C28-4343-A577-554845BE627E
+UID:546E39C3-2C28-4343-A577-554845BE627E
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:BF6617C9-5C5F-49DD-8D6B-C2CCC71C5C15
+DTEND;VALUE=DATE:20170102
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Hanukkah
+DTSTART;VALUE=DATE:20161225
+DTSTAMP:20160912T151050Z
+SEQUENCE:0
+DESCRIPTION:The eight-day Jewish celebration known as Hanukkah or Chanuk
+ ah commemorates the rededication during the second century B.C. of the S
+ econd Temple in Jerusalem\, where according to legend Jews had risen up 
+ against their Greek-Syrian oppressors in the Maccabean Revolt.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:FAF5E06A-FDD7-4D97-80F2-D15D267F1815
+UID:FAF5E06A-FDD7-4D97-80F2-D15D267F1815
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:AA9D8FB6-6E1E-4B08-9BEF-7C12EA0D22BC
+UID:AA9D8FB6-6E1E-4B08-9BEF-7C12EA0D22BC
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:3F115226-D651-4B94-95FC-2B964BD2E4A9
+DTEND;VALUE=DATE:20170302
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Ash Wednesday
+DTSTART;VALUE=DATE:20170301
+DTSTAMP:20160912T151245Z
+SEQUENCE:0
+DESCRIPTION:Ash Wednesday marks the beginning of the season of Lent. Len
+ t is a time when many Christians prepare for Easter by observing a perio
+ d of fasting\, repentance\, moderation and spiritual discipline.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:92D26EED-57E4-4C54-96D3-78A681E8B7E7
+UID:92D26EED-57E4-4C54-96D3-78A681E8B7E7
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:D7DEFDF7-7345-46E9-AE75-F66EDDE438D9
+UID:D7DEFDF7-7345-46E9-AE75-F66EDDE438D9
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:571E5513-BF21-4166-9E2C-135990C6D17F
+DTEND;VALUE=DATE:20170413
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Passover (First two days)
+DTSTART;VALUE=DATE:20170411
+DTSTAMP:20160912T151340Z
+SEQUENCE:0
+DESCRIPTION:Passover or Pesach (/ˈpɛsɑːx\, ˈpeɪsɑːx/\; from Hebrew פֶּסַ
+ ח Pesah\, Pesakh\, Assyrian\; ܦܸܨܚܵܐ"piskha")\, is an important\, biblic
+ ally derived Jewish festival. The Jewish people celebrate Passover as a 
+ commemoration of their liberation by God from slavery in Egypt and their
+  freedom as a nation under the leadership of Moses.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:3E883245-1AC5-4EE4-B3B8-372946F2DF04
+UID:3E883245-1AC5-4EE4-B3B8-372946F2DF04
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:F5AE22CB-6386-4915-A9C8-189DAD9BDDC0
+UID:F5AE22CB-6386-4915-A9C8-189DAD9BDDC0
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:E1302FF9-6AE4-4D27-ACFA-7B50C46F230F
+DTEND;VALUE=DATE:20170415
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20170414
+DTSTAMP:20160912T151432Z
+SEQUENCE:0
+DESCRIPTION:Good Friday is a Christian religious holiday commemorating t
+ he crucifixion of Jesus Christ and his death at Calvary.\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:9D85F2F5-8657-4397-AE24-72F7291A9861
+UID:9D85F2F5-8657-4397-AE24-72F7291A9861
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:18F955A5-A90E-4F28-A4FC-AFFE4EFA0849
+UID:18F955A5-A90E-4F28-A4FC-AFFE4EFA0849
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20160912T152040Z
+UID:94CBF0FE-EF90-4DA4-B61B-06BDF35C4B86
+DTEND;VALUE=DATE:20170417
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Easter
+DTSTART;VALUE=DATE:20170416
+DTSTAMP:20160912T151611Z
+SEQUENCE:0
+DESCRIPTION:Easter is a festival and holiday<https://www.wikiwand.com/en
+ /Holiday> celebrating the resurrection of<https://www.wikiwand.com/en/Re
+ surrection_of_Jesus>Jesus Christ<https://www.wikiwand.com/en/Jesus> from
+  the dead\, described in the New Testament<https://www.wikiwand.com/en/N
+ ew_Testament> as having occurred on the third day of his burial after hi
+ s crucifixion<https://www.wikiwand.com/en/Crucifixion_of_Jesus> by Roman
+ s<https://www.wikiwand.com/en/Roman_Empire> at Calvary<https://www.wikiw
+ and.com/en/Calvary> c. 30 AD.[5]<https://www.wikiwand.com/en/Easter#cite
+ note8>[6]<https://www.wikiwand.com/en/Easter#citenote9> It is the culmin
+ ation of the Passion of Christ<https://www.wikiwand.com/en/Passion_(Chri
+ stianity)>\, preceded by Lent<https://www.wikiwand.com/en/Lent>(or Great
+  Lent<https://www.wikiwand.com/en/Great_Lent>)\, a forty-day period of f
+ asting<https://www.wikiwand.com/en/Fasting>\, prayer\, and penance<https
+ ://www.wikiwand.com/en/Penance>.\n\n\n\n
+BEGIN:VALARM
+X-WR-ALARMUID:AE5CD0C7-B0A4-4AB8-9710-F6510BCE838F
+UID:AE5CD0C7-B0A4-4AB8-9710-F6510BCE838F
+TRIGGER:-PT15H
+ATTACH;VALUE=URI:Basso
+X-APPLE-LOCAL-DEFAULT-ALARM:TRUE
+ACTION:AUDIO
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+BEGIN:VALARM
+X-WR-ALARMUID:2AC6FB0D-D9C1-4D2A-A445-BD12E2048E8D
+UID:2AC6FB0D-D9C1-4D2A-A445-BD12E2048E8D
+TRIGGER:-PT15H
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+END:VCALENDAR
